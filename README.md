@@ -14,7 +14,7 @@ For each system, the overall performance were shown through the plots: \
     - Outlet temperature vs. catalyst recirculation rate \
     - n-Butane conversion vs. catalyst recirculation rate \
     - Maleic anhydride selectivity vs. catalyst recirculation rate \
-    - Maleic anhydride selectivity vs. n-butane conversion \
+    - Maleic anhydride selectivity vs. n-butane conversion 
 
 Once the optimium catalyst recirculation rate was found, the profiles for this recirculation rate were also plotted to gain a depeer analysis of how the reactor works: \
     - Flow of maleic anhydride, n-butane, CO2, H2O, CO vs. riser height \
